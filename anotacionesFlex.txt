@@ -4,5 +4,5 @@ Padre:
     y para alinear justify-content: center; entre otros
     para alinear verticalmente align-item: center; entre otros
 
-    por defecto también flex-wrap: no-wrap -> los elementos nunca colapsan
+    por defecto también flex-wrap: nowrap -> los elementos nunca colapsan
     se puede cambiar a flex-wrap: wrap; -> los elementos colapsan cuando el ancho del padre es superado por el de los hijos
